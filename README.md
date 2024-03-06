@@ -17,13 +17,13 @@ Add new users and view existing ones.
 Update and delete user information.
 Assign "admin" and "staff" roles to users.
 ## Example Use Cases
-Adding a New Car: Click the "Add Car" button on the main screen to add a new car. Visit the "Car List" tab to see the added cars.
+- Adding a New Car: Click the "Add Car" button on the main screen to add a new car. Visit the "Car List" tab to see the added cars.
 
-Making a Rental: From the "Make Rental" tab, choose a suitable car to initiate a rental.
+- Making a Rental: From the "Make Rental" tab, choose a suitable car to initiate a rental.
 
-Creating a Customer: Create a new customer from the "Customers" tab and manage customer information.
+- Creating a Customer: Create a new customer from the "Customers" tab and manage customer information.
 
-Creating a User: From the "Users" tab, create a new user and assign an "admin" or "staff" role.
+- Creating a User: From the "Users" tab, create a new user and assign an "admin" or "staff" role.
 
 ## Project Structure
 The project is structured into five main packages:
