@@ -28,11 +28,11 @@ Creating a User: From the "Users" tab, create a new user and assign an "admin" o
 ## Project Structure
 The project is structured into five main packages:
 
-dao: Data Access Objects managing database operations.
-business: Classes containing business logic operations.
-entity: Entity classes representing database tables.
-core: Fundamental helper classes and tools.
-view: Classes containing User Interface (UI) components.
+- dao: Data Access Objects managing database operations.
+- business: Classes containing business logic operations.
+- entity: Entity classes representing database tables.
+- core: Fundamental helper classes and tools.
+- view: Classes containing User Interface (UI) components.
 ## Requirements
 Java JDK 8 or above.
 PostgreSQL database.
