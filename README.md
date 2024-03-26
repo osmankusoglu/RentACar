@@ -36,3 +36,13 @@ The project is structured into five main packages:
 ## Requirements
 Java JDK 8 or above.
 PostgreSQL database.
+
+![rent-login](https://github.com/osmankusoglu/RentACar/assets/130009555/53981966-3e18-407b-8068-3cc9e9abb1d3)
+![rent-panel](https://github.com/osmankusoglu/RentACar/assets/130009555/94664d20-23bb-473d-893b-bfb08566fafe)
+![rent-brand](https://github.com/osmankusoglu/RentACar/assets/130009555/a779ce8a-fb38-411b-b0e5-57b6c5e26ec5)
+![rent-model](https://github.com/osmankusoglu/RentACar/assets/130009555/5691758f-2caf-4251-96b4-d52ce392ad43)
+![rent-model-1](https://github.com/osmankusoglu/RentACar/assets/130009555/8ad129c0-4b42-44a7-8153-9b86b8a23b08)
+![rent-model-2](https://github.com/osmankusoglu/RentACar/assets/130009555/dff4e72d-1d99-4978-aed0-56bdc44aebea)
+![rent-car](https://github.com/osmankusoglu/RentACar/assets/130009555/02dbb1a8-ff1a-467f-8b3d-79861c50b94e)
+![rent-reserv](https://github.com/osmankusoglu/RentACar/assets/130009555/4b148343-3d6e-4f0a-989e-30f184890d35)
+![rent-reserv-1](https://github.com/osmankusoglu/RentACar/assets/130009555/47f401b7-238a-4a6f-a5fb-4dcdacf4963d)
